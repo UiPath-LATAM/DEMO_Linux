@@ -1,0 +1,7 @@
+{
+  "DefaultOCREngine": "UiPath.OCR.Activities.UiPathScreenOCR, UiPath.OCR.Activities",
+  "UiPath.OCR.Activities.UiPathScreenOCR.Endpoint": "https://ocr.uipath.com/",
+  "UiPath.OCR.Activities.UiPathScreenOCR.ApiKey": "",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.Endpoint": "https://du.uipath.com/ocr",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.ApiKey": ""
+}
